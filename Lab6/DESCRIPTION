@@ -1,0 +1,11 @@
+Package: Lab6
+Type: Package
+Title: Knapsack problem solving
+Version: 1.0
+Date: 2017-10-08
+Author: Balaji Ramkumar , Amish Satish
+Maintainer: <balaji512ramkumar@gmail.com>
+Description: This package has 3 function which are three methods to solve the Knapsack problems.
+License: CC0
+RoxygenNote: 6.0.1.9000
+Suggests: testthat
